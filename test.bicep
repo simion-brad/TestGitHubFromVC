@@ -11,6 +11,8 @@ param tags object = {
 Environment: 'Production'
 CostCenter: 'BAU'
 Owner: 'DevOpsTeam'
+ProjectCode: 'Unknown'
+OwnerEmail: 'simion.brad@outlook.com'
 }
 
 resource rg 'Microsoft.Resources/resourceGroups@2024-03-01' = {
