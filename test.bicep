@@ -13,6 +13,7 @@ CostCenter: 'BAU'
 Owner: 'DevOpsTeam'
 ProjectCode: 'Unknown'
 OwnerEmail: 'simion.brad@outlook.com'
+OwnerPhone: '+61448412261'
 }
 
 resource rg 'Microsoft.Resources/resourceGroups@2024-03-01' = {
